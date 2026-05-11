@@ -1,3 +1,10 @@
 {
-  "lion_recoil": "2.0"
+  "lion_recoil": {
+    "version": "2.0",
+    "download": "https://github.com/L0stedMrlion/lion_recoil/releases/latest",
+    "changes": [
+      "Fully Reworked to V2",
+      "Improvements of the code & ox_lib integration"
+    ]
+  }
 }
